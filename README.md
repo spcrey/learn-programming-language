@@ -8,12 +8,12 @@ python main.py
 gcc main.c -o main && ./main && rm ./main
 ```
 
-#### Cpp
+#### CPP
 ``` bash
 g++ main.cpp -o main && ./main && rm ./main
 ```
 
-#### Html
+#### HTML
 ``` bash
 python -m http.server
 ```
@@ -28,7 +28,7 @@ node script.js
 javac Main.java && java Main && rm ./Main.class
 ```
 
-# kotlin
+#### Kotlin
 ``` bash
 kotlinc main.kt && java MainKt && rm ./MainKt.class
 ```
@@ -38,9 +38,14 @@ kotlinc main.kt && java MainKt && rm ./MainKt.class
 sqlite3 database.db
 ```
 
-# Go
+#### Go
 ``` bash
 go run main.go
+```
+
+#### Dart
+``` bash
+dart main.dart
 ```
 
 #### Type Script
