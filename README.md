@@ -1,31 +1,49 @@
-# Python
-``` python 
+#### Python
+``` bash
 python main.py
 ```
 
-# C
+#### C
+``` bash
 gcc main.c -o main && ./main && rm ./main
+```
 
-# Cpp
+#### Cpp
+``` bash
 g++ main.cpp -o main && ./main && rm ./main
+```
 
-# Html
+#### Html
+``` bash
 python -m http.server
+```
 
-# Java Script
+#### Java Script
+``` bash
 node script.js
+```
 
-# Java
+#### Java
+``` bash
 javac Main.java && java Main && rm ./Main.class
+```
 
 # kotlin
+``` bash
 kotlinc main.kt && java MainKt && rm ./MainKt.class
+```
 
-# Sqlite
+#### Sqlite
+``` bash
 sqlite3 database.db
+```
 
 # Go
+``` bash
 go run main.go
+```
 
-# Type Script
+#### Type Script
+``` bash
 tsc main.ts && node main.js && rm main.js
+```
