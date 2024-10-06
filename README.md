@@ -35,7 +35,7 @@ kotlinc main.kt && java MainKt && rm ./MainKt.class
 
 #### Sqlite
 ``` bash
-sqlite3 database.db
+sqlite3 database.db < main.sql
 ```
 
 #### Go
